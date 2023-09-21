@@ -1,0 +1,2 @@
+BANNER IMAGE = 1920px width
+HERO IMAGE = 1280px width/height
