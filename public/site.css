@@ -169,8 +169,9 @@ button:hover {
     overflow: hidden;
 }
 .crop-banner img {
-    margin-top: -15%;
-    margin-bottom: -12%;
+    margin-top: -17%;
+    margin-bottom: -14%;
+    width: 100%;
 }
 
 
@@ -179,7 +180,8 @@ button:hover {
     overflow: hidden;
 }
 .crop-banner-top img {
-    margin-bottom: -27%;
+    margin-bottom: -30%;
+    width: 100%;
 }
 
 
@@ -188,7 +190,8 @@ button:hover {
     overflow: hidden;
 }
 .crop-banner-bottom img {
-    margin-top: -27%;
+    margin-top: -30%;
+    width: 100%;
 }
 
 

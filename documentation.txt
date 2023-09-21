@@ -1,2 +1,2 @@
-BANNER IMAGE = 1920px width
-HERO IMAGE = 1280px width/height
+BANNER IMAGE = 1920 px width
+HERO IMAGE = 1280 px width/height
